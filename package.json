@@ -1,0 +1,14 @@
+{
+  "name": "mirelescloud-graphql-node",
+  "version": "1.0.0",
+  "description": "GraphQL Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Mireles (mirelescloud@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
