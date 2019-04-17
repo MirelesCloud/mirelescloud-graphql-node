@@ -9,6 +9,7 @@
   "author": "Alex Mireles (mirelescloud@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.17.4"
+    "graphql-yoga": "^1.17.4",
+    "prisma-client-lib": "^1.31.0"
   }
 }
